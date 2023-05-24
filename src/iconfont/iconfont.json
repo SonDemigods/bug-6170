@@ -1,0 +1,198 @@
+{
+  "id": "2684968",
+  "name": "协同处置_左邻版本",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22991728",
+      "name": "PC_首页_上升",
+      "font_class": "PC_shouye_shangsheng",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "22991729",
+      "name": "PC_首页_下降",
+      "font_class": "PC_shouye_xiajiang",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "22983564",
+      "name": "PC_菜单_事件登记",
+      "font_class": "PC_caidan_shijiandengji",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "22983538",
+      "name": "PC_菜单_统计分析",
+      "font_class": "PC_caidan_tongjifenxi",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "22983539",
+      "name": "PC_菜单_综合查询",
+      "font_class": "PC_caidan_zonghechaxun",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "22983474",
+      "name": "PC_菜单_事件管理",
+      "font_class": "PC_caidan_shijianguanli",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "22983417",
+      "name": "PC_菜单_任务管理",
+      "font_class": "PC_caidan_renwuguanli",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "22983384",
+      "name": "PC_菜单_首页",
+      "font_class": "PC_caidan_shouye",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "22982954",
+      "name": "APP_指挥看板_统计",
+      "font_class": "APP_zhihuikanban_tongji",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "22976747",
+      "name": "APP_协同处置_人员",
+      "font_class": "APP_xietongchuzhi_renyuan",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "22976748",
+      "name": "APP_协同处置_地点",
+      "font_class": "APP_xietongchuzhi_didian",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "22976749",
+      "name": "APP_协同处置_类型",
+      "font_class": "APP_xietongchuzhi_leixing",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "22976530",
+      "name": "APP_协同处置_待派遣",
+      "font_class": "APP_xietongchuzhi_daipaiqian",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "22976531",
+      "name": "APP_协同处置_待核实",
+      "font_class": "APP_xietongchuzhi_daiheshi",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "22976532",
+      "name": "APP_协同处置_待办结",
+      "font_class": "APP_xietongchuzhi_daibanjie",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "22976533",
+      "name": "APP_协同处置_待处置",
+      "font_class": "APP_xietongchuzhi_daichuzhi",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "22976019",
+      "name": "APP_协同处置_待受理",
+      "font_class": "APP_xietongchuzhi_daishouli",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "22975778",
+      "name": "事件状态_督",
+      "font_class": "shijianzhuangtai_du",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "22975779",
+      "name": "事件状态_急",
+      "font_class": "shijianzhuangtai_ji",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "22975780",
+      "name": "事件状态_吹",
+      "font_class": "shijianzhuangtai_chui",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "22975781",
+      "name": "事件状态_延",
+      "font_class": "shijianzhuangtai_yan",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "22974228",
+      "name": "APP_事件上报_地址选择",
+      "font_class": "APP_shijianshangbao_dizhixuanze",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "22974045",
+      "name": "APP_首页入口_事件上报",
+      "font_class": "APP_shouyerukou_shijianshangbao",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "22974046",
+      "name": "APP_首页入口_监督看板",
+      "font_class": "APP_shouyerukou_jiandukanban",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "22974047",
+      "name": "APP_首页入口_我的任务",
+      "font_class": "APP_shouyerukou_woderenwu",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "22974048",
+      "name": "APP_首页入口_自行处置",
+      "font_class": "APP_shouyerukou_zihangchuzhi",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "22974049",
+      "name": "APP_首页入口_事件管理",
+      "font_class": "APP_shouyerukou_shijianguanli",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    }
+  ]
+}
